@@ -3,13 +3,13 @@ Repeatedly get the most active stocks on yahoo finance and have data sent to you
 Great way to get automated updates on the market with detailed data to make quick, easy and profitable trades!
 
 
-# Scrape and organize Yahoo Finance Most Active stocks into dataframes and csv files.
+Scrape and organize Yahoo Finance Most Active stocks into dataframes and csv files.
 
-# Be able to compare multiple dataframes/csv files to review differences in Price, Volume and other key trading metrics.
+Be able to compare multiple dataframes/csv files to review differences in Price, Volume and other key trading metrics.
 
 
 
-# Have csv files emailed to yourself or any recipient every 5-10 minutes (it is completely up to you on how often you want to review the data!)
+Have csv files emailed to yourself or any recipient every 5-10 minutes (it is completely up to you on how often you want to review the data!)
 
 
 # Quick Note:
