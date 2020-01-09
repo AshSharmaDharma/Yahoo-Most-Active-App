@@ -13,6 +13,6 @@ Have csv files emailed to yourself or any recipient every 5-10 minutes (it is co
 
 
 # Quick Note:
-I will be adding more to this project in terms of plotting price/volume data and also having that data emailed repeatedly along with csv files to visualize market trends
+I will be adding more to this project in terms of plotting price/volume data and also having that data emailed repeatedly along with csv files to visualize market trends on the go!
 
 
